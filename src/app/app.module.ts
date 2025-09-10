@@ -14,6 +14,7 @@ import { ContactsModule } from './contacts/contacts-module';
     AppRoutingModule,
     LayoutModule,
     CommonModule,
+    ContactsModule
   ],
   bootstrap: [AppComponent],
 })
